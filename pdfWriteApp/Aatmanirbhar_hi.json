@@ -1,0 +1,1962 @@
+[
+    {
+        "1": {
+            "width": "595.27557373047",
+            "height": "792",
+            "texts": [
+                {
+                    "top": "182.03994750977",
+                    "left": "164.83009338379",
+                    "end_top": "224.34815979004",
+                    "end_left": "172.19682312012",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "38.280738830566",
+                            "colorCode": "#e6e7e7",
+                            "fontWeight": "underline",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "166.84707641602",
+                    "left": "51.470401763916",
+                    "end_top": "185.87641906738",
+                    "end_left": "314.01364135742",
+                    "text": [
+                        {
+                            "text": "आपको आत्मनिर्भर बनाने का लक्ष्य है",
+                            "font_size": "17.267999649048",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "Aims to make you Aatmanirbhar to ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "187.56930541992",
+                    "left": "51.470401763916",
+                    "end_top": "206.59864807129",
+                    "end_left": "227.10302734375",
+                    "text": [
+                        {
+                            "text": "वह जीवन जियें जिसके आप हकदार हैं",
+                            "font_size": "17.267999649048",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "live the life you deserve",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "293.05560302734",
+                    "left": "266.45779418945",
+                    "end_top": "305.35360717773",
+                    "end_left": "329.42178344727",
+                    "text": [
+                        {
+                            "text": "एक 3 चरणीय योजना",
+                            "font_size": "11",
+                            "colorCode": "#fefefe",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "A 3 step plan",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "371.17617797852",
+                    "left": "323.74429321289",
+                    "end_top": "381.23818969727",
+                    "end_left": "414.74334716797",
+                    "text": [
+                        {
+                            "text": "बिकम आत्मनिर्भर",
+                            "font_size": "9",
+                            "colorCode": "#fefefe",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "Become Aatmanirbhar",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "381.97616577148",
+                    "left": "327.88909912109",
+                    "end_top": "392.03817749023",
+                    "end_left": "410.55862426758",
+                    "text": [
+                        {
+                            "text": "नियमित भुगतान के साथ",
+                            "font_size": "9",
+                            "colorCode": "#fefefe",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "with regular payouts",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "393.61099243164",
+                    "left": "212.39739990234",
+                    "end_top": "403.67300415039",
+                    "end_left": "291.14730834961",
+                    "text": [
+                        {
+                            "text": "कार्यकाल चुनें* और",
+                            "font_size": "9",
+                            "colorCode": "#fefefe",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "Choose tenure* and",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "404.41098022461",
+                    "left": "224.76838684082",
+                    "end_top": "414.47299194336",
+                    "end_left": "278.77749633789",
+                    "text": [
+                        {
+                            "text": "निवेशित रहें",
+                            "font_size": "9",
+                            "colorCode": "#fefefe",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "Stay Invested",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "415.77847290039",
+                    "left": "108.2658996582",
+                    "end_top": "425.84048461914",
+                    "end_left": "159.23289489746",
+                    "text": [
+                        {
+                            "text": "में एक एसआईपी शुरू करें",
+                            "font_size": "9",
+                            "colorCode": "#fefefe",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "Start a SIP in",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "426.57846069336",
+                    "left": "101.047996521",
+                    "end_top": "436.64047241211",
+                    "end_left": "166.45101928711",
+                    "text": [
+                        {
+                            "text": "पात्र योजनाएं",
+                            "font_size": "9",
+                            "colorCode": "#fefefe",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "eligible schemes",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "522.03210449219",
+                    "left": "26.676900863647",
+                    "end_top": "532.09411621094",
+                    "end_left": "354.00701904297",
+                    "text": [
+                        {
+                            "text": "सिमरन ने 2003 में मासिक के साथ वित्तीय स्वतंत्रता की दिशा में अपनी यात्रा शुरू की",
+                            "font_size": "9",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "Simran began her journey towards financial independence in 2003 with a monthly ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "522.03210449219",
+                    "left": "368.91619873047",
+                    "end_top": "532.09411621094",
+                    "end_left": "377.19619750977",
+                    "text": [
+                        {
+                            "text": "का",
+                            "font_size": "9",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "of",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "522.03210449219",
+                    "left": "413.28628540039",
+                    "end_top": "532.09411621094",
+                    "end_left": "424.32028198242",
+                    "text": [
+                        {
+                            "text": "में",
+                            "font_size": "9",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": " in ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "522.03210449219",
+                    "left": "353.89929199219",
+                    "end_top": "532.09411621094",
+                    "end_left": "368.92028808594",
+                    "text": [
+                        {
+                            "text": "एसआईपी",
+                            "font_size": "9",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "SIP ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "522.03210449219",
+                    "left": "377.18698120117",
+                    "end_top": "532.09411621094",
+                    "end_left": "378.92398071289",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "9",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "522.11309814453",
+                    "left": "378.92376708984",
+                    "end_top": "532.58911132812",
+                    "end_left": "383.42376708984",
+                    "text": [
+                        {
+                            "text": "`",
+                            "font_size": "",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline",
+                            "transOrg": "`",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "522.03210449219",
+                    "left": "383.42376708984",
+                    "end_top": "532.09411621094",
+                    "end_left": "413.28576660156",
+                    "text": [
+                        {
+                            "text": "30,000",
+                            "font_size": "9",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": " 30,000",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "522.03210449219",
+                    "left": "424.31546020508",
+                    "end_top": "532.09411621094",
+                    "end_left": "529.13848876953",
+                    "text": [
+                        {
+                            "text": "निफ्टी 500 टीआरआई बेंचमार्क।",
+                            "font_size": "9",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "Nifty 500 TRI benchmark. ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "533.03759765625",
+                    "left": "26.675659179688",
+                    "end_top": "543.099609375",
+                    "end_left": "121.12105560303",
+                    "text": [
+                        {
+                            "text": "वह निवेशित रही",
+                            "font_size": "9",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "She stayed invested for ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "533.03759765625",
+                    "left": "121.0979309082",
+                    "end_top": "543.099609375",
+                    "end_left": "155.07302856445",
+                    "text": [
+                        {
+                            "text": "10 वर्ष",
+                            "font_size": "9",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "10 years",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "533.03759765625",
+                    "left": "155.05995178223",
+                    "end_top": "543.099609375",
+                    "end_left": "487.18792724609",
+                    "text": [
+                        {
+                            "text": "बाजार की स्थितियों की परवाह किए बिना, लगातार और लगभग एक कोष जमा किया",
+                            "font_size": "9",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": " consistently, irrespective of market conditions and accumulated a corpus of approx",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "533.03759765625",
+                    "left": "487.1875",
+                    "end_top": "543.099609375",
+                    "end_left": "488.92449951172",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "9",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "533.11859130859",
+                    "left": "488.92428588867",
+                    "end_top": "543.59460449219",
+                    "end_left": "493.42428588867",
+                    "text": [
+                        {
+                            "text": "`",
+                            "font_size": "",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline",
+                            "transOrg": "`",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "533.03759765625",
+                    "left": "493.42428588867",
+                    "end_top": "543.099609375",
+                    "end_left": "528.8212890625",
+                    "text": [
+                        {
+                            "text": "68 लाख.",
+                            "font_size": "9",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": " 68 Lakh.",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "714.49853515625",
+                    "left": "26.578500747681",
+                    "end_top": "722.21252441406",
+                    "end_left": "218.28189086914",
+                    "text": [
+                        {
+                            "text": "स्रोत: ब्लूमबर्ग/axismf अनुसंधान। डेटा: 30 मई, 2023।",
+                            "font_size": "7",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "Source: Bloomberg/axismf research. Data as on: 30th May, 2023.",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "722.77209472656",
+                    "left": "26.577606201172",
+                    "end_top": "730.59814453125",
+                    "end_left": "201.27171325684",
+                    "text": [
+                        {
+                            "text": "पिछला प्रदर्शन भविष्य में कायम रह भी सकता है और नहीं भी।",
+                            "font_size": "7",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "Past performance may or may not be sustained in future. ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "722.89813232422",
+                    "left": "201.05841064453",
+                    "end_top": "730.61212158203",
+                    "end_left": "374.87216186523",
+                    "text": [
+                        {
+                            "text": "यह गणना एक काल्पनिक ऐतिहासिक गणना है",
+                            "font_size": "7",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "The calculation is a historical calculation of a hypothetical ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "722.83514404297",
+                    "left": "374.67654418945",
+                    "end_top": "730.98309326172",
+                    "end_left": "378.17654418945",
+                    "text": [
+                        {
+                            "text": "`",
+                            "font_size": "",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "`",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "722.89813232422",
+                    "left": "378.17645263672",
+                    "end_top": "730.61212158203",
+                    "end_left": "570.03833007812",
+                    "text": [
+                        {
+                            "text": "10 वर्षों के लिए 01/04/2003 को 30000 मासिक एसआईपी शुरू की गई। ऊपर",
+                            "font_size": "7",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " 30000 monthly SIP initiated on 01/04/2003 for 10 years. Upon ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "730.60150146484",
+                    "left": "26.573364257812",
+                    "end_top": "738.31549072266",
+                    "end_left": "445.59323120117",
+                    "text": [
+                        {
+                            "text": "पूरा होने पर कॉर्पस को स्विच के माध्यम से निफ्टी 50 हाइब्रिड कम्पोजिट डेट 65:35 इंडेक्स में स्थानांतरित कर दिया जाता है और बाद में व्यवस्थित निकासी की जाती है।",
+                            "font_size": "7",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "completion the corpus is transferred via switch to NIFTY 50 Hybrid Composite Debt 65:35 Index with a subsequent systematic withdrawal of  ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "730.53851318359",
+                    "left": "445.06021118164",
+                    "end_top": "738.68646240234",
+                    "end_left": "448.56021118164",
+                    "text": [
+                        {
+                            "text": "`",
+                            "font_size": "",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "`",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "730.60150146484",
+                    "left": "448.56011962891",
+                    "end_top": "738.31549072266",
+                    "end_left": "570.02966308594",
+                    "text": [
+                        {
+                            "text": "अगले 10 वर्षों के लिए 30000। पर मूल्य",
+                            "font_size": "7",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " 30000 for the next 10 years. Value at the ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "738.30493164062",
+                    "left": "26.567565917969",
+                    "end_top": "746.01892089844",
+                    "end_left": "445.13366699219",
+                    "text": [
+                        {
+                            "text": "30 अप्रैल 2023 तक अवधि की समाप्ति। इस गणना में निष्पादन, निधि के रखरखाव और कराधान के खर्चों को नजरअंदाज कर दिया गया है।",
+                            "font_size": "7",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "end of the period as of 30th April 2023. Expenses for the execution, maintenance of the fund and taxation have been ignored in this calculation.",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "746.70483398438",
+                    "left": "26.566253662109",
+                    "end_top": "754.41882324219",
+                    "end_left": "570.02673339844",
+                    "text": [
+                        {
+                            "text": "उपरोक्त गणना केवल चित्रण उद्देश्यों के लिए है और निवेश अवधि के अंत में कॉर्पस, वास्तविक बाजार रिटर्न और आवधिकता के आधार पर बाजार जोखिमों के अधीन है।",
+                            "font_size": "7",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "The above calculations are only for illustration purposes and are subject to market risks based on corpus at the end of the investment period, actual market returns and periodicity of ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "754.26483154297",
+                    "left": "26.560668945312",
+                    "end_top": "761.97882080078",
+                    "end_left": "570.02484130859",
+                    "text": [
+                        {
+                            "text": "नकदी प्रवाह। यह सुविधा किसी भी तरह से एक्सिस म्यूचुअल फंड की किसी भी योजना के प्रदर्शन का आश्वासन नहीं देती है या एसडब्ल्यूपी मोड के माध्यम से निकासी की कोई गारंटी प्रदान नहीं करती है।",
+                            "font_size": "7",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "cash flows. This feature does not in any way give assurance of the performance of any of the Schemes of Axis Mutual Fund or provide any guarantee of withdrawals through SWP mode. ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "761.82482910156",
+                    "left": "26.556640625",
+                    "end_top": "769.53881835938",
+                    "end_left": "262.80224609375",
+                    "text": [
+                        {
+                            "text": "निवेशकों को सलाह दी जाती है कि वे निवेश करने से पहले अपने निवेश/कर सलाहकारों से परामर्श लें।",
+                            "font_size": "7",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "Investors are advised to consult their investment / tax advisors before investing.",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "613.7705078125",
+                    "left": "277.5126953125",
+                    "end_top": "617.10772705078",
+                    "end_left": "278.94619750977",
+                    "text": [
+                        {
+                            "text": "`",
+                            "font_size": "",
+                            "colorCode": "#fefefe",
+                            "fontWeight": "underline",
+                            "transOrg": "`",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "626.15026855469",
+                    "left": "220.19580078125",
+                    "end_top": "637.51580810547",
+                    "end_left": "235.20080566406",
+                    "text": [
+                        {
+                            "text": "एसआईपी",
+                            "font_size": "10.166000366211",
+                            "colorCode": "#fefefe",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "SIP",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "626.5908203125",
+                    "left": "324.72790527344",
+                    "end_top": "637.95635986328",
+                    "end_left": "347.18460083008",
+                    "text": [
+                        {
+                            "text": "एसडब्ल्यूपी",
+                            "font_size": "10.166000366211",
+                            "colorCode": "#fefefe",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "SWP",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "610.02618408203",
+                    "left": "27.79940032959",
+                    "end_top": "618.84216308594",
+                    "end_left": "29.3434009552",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "610.02618408203",
+                    "left": "51.055099487305",
+                    "end_top": "618.84216308594",
+                    "end_left": "106.35047912598",
+                    "text": [
+                        {
+                            "text": "तब से निवेश कर रहा हूँ",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "Investing Since  ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "609.88220214844",
+                    "left": "139.86279296875",
+                    "end_top": "618.826171875",
+                    "end_left": "183.17477416992",
+                    "text": [
+                        {
+                            "text": "01/04/2003",
+                            "font_size": "8",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "01/04/2003",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "626.15362548828",
+                    "left": "27.798492431641",
+                    "end_top": "634.96960449219",
+                    "end_left": "29.342493057251",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "626.15362548828",
+                    "left": "52.282192230225",
+                    "end_top": "634.96960449219",
+                    "end_left": "105.1224822998",
+                    "text": [
+                        {
+                            "text": "प्रति माह एसआईपी",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "SIP Per month  ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "626.00964355469",
+                    "left": "149.01818847656",
+                    "end_top": "634.95361328125",
+                    "end_left": "174.01818847656",
+                    "text": [
+                        {
+                            "text": "30,000",
+                            "font_size": "8",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "30,000",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "642.28100585938",
+                    "left": "27.797988891602",
+                    "end_top": "651.09698486328",
+                    "end_left": "29.341989517212",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "642.28100585938",
+                    "left": "40.017890930176",
+                    "end_top": "651.09698486328",
+                    "end_left": "117.38428497314",
+                    "text": [
+                        {
+                            "text": "निवेश अवधि (वर्ष)",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "Investing Period (Yrs)  ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "642.13702392578",
+                    "left": "156.87728881836",
+                    "end_top": "651.08099365234",
+                    "end_left": "166.15728759766",
+                    "text": [
+                        {
+                            "text": "10",
+                            "font_size": "8",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "10",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "658.40869140625",
+                    "left": "27.796890258789",
+                    "end_top": "667.22467041016",
+                    "end_left": "29.340890884399",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "658.40869140625",
+                    "left": "47.176788330078",
+                    "end_top": "667.22467041016",
+                    "end_left": "110.22418212891",
+                    "text": [
+                        {
+                            "text": "निवेशित राशि",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "Invested Amount  ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "658.26470947266",
+                    "left": "143.47648620605",
+                    "end_top": "667.20867919922",
+                    "end_left": "179.55648803711",
+                    "text": [
+                        {
+                            "text": "36,00,000",
+                            "font_size": "8",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "36,00,000",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "674.53643798828",
+                    "left": "27.796287536621",
+                    "end_top": "683.35241699219",
+                    "end_left": "127.46337890625",
+                    "text": [
+                        {
+                            "text": "बाज़ार मूल्य (अप्रैल 1, 2013)",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " Market Value (Apr 1, 2013)  ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "674.39245605469",
+                    "left": "143.4762878418",
+                    "end_top": "683.33642578125",
+                    "end_left": "179.55628967285",
+                    "text": [
+                        {
+                            "text": "68,87,718",
+                            "font_size": "8",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "68,87,718",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "690.66412353516",
+                    "left": "27.796089172363",
+                    "end_top": "699.48010253906",
+                    "end_left": "29.340089797974",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "690.66412353516",
+                    "left": "40.591690063477",
+                    "end_top": "699.48010253906",
+                    "end_left": "116.80768585205",
+                    "text": [
+                        {
+                            "text": "एसआईपी रिटर्न (% XIRR)",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "SIP Returns (% XIRR)  ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "690.52014160156",
+                    "left": "148.1242980957",
+                    "end_top": "699.46411132812",
+                    "end_left": "174.90829467773",
+                    "text": [
+                        {
+                            "text": "12.40%",
+                            "font_size": "8",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "12.40%",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "562.77563476562",
+                    "left": "102.61979675293",
+                    "end_top": "573.45861816406",
+                    "end_left": "160.17469787598",
+                    "text": [
+                        {
+                            "text": "सिमरन ने चुना",
+                            "font_size": "9",
+                            "colorCode": "#373334",
+                            "fontWeight": "italic underline superscript bold italic",
+                            "transOrg": "Simran chose a ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "573.57531738281",
+                    "left": "102.62009429932",
+                    "end_top": "584.25830078125",
+                    "end_left": "141.09519958496",
+                    "text": [
+                        {
+                            "text": "एसआईपी कार्यकाल",
+                            "font_size": "9",
+                            "colorCode": "#992e56",
+                            "fontWeight": "italic underline superscript bold italic",
+                            "transOrg": "SIP tenure",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "573.57531738281",
+                    "left": "141.0950012207",
+                    "end_top": "584.25830078125",
+                    "end_left": "184.25471496582",
+                    "text": [
+                        {
+                            "text": "10 साल का",
+                            "font_size": "9",
+                            "colorCode": "#373334",
+                            "fontWeight": "italic underline superscript bold italic",
+                            "transOrg": " of 10 years",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "568.16589355469",
+                    "left": "79.395599365234",
+                    "end_top": "579.53143310547",
+                    "end_left": "94.400619506836",
+                    "text": [
+                        {
+                            "text": "एसआईपी",
+                            "font_size": "10.166000366211",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "SIP",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "557.32171630859",
+                    "left": "422.55981445312",
+                    "end_top": "568.00469970703",
+                    "end_left": "520.79443359375",
+                    "text": [
+                        {
+                            "text": "सिमरन ने साथ चलने का फैसला किया",
+                            "font_size": "9",
+                            "colorCode": "#373334",
+                            "fontWeight": "italic underline superscript bold italic",
+                            "transOrg": "Simran decided to go with ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "557.32171630859",
+                    "left": "540.83801269531",
+                    "end_top": "568.00469970703",
+                    "end_left": "572.89599609375",
+                    "text": [
+                        {
+                            "text": "क्योंकि",
+                            "font_size": "9",
+                            "colorCode": "#373334",
+                            "fontWeight": "italic underline superscript bold italic",
+                            "transOrg": "because ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "557.32171630859",
+                    "left": "520.75482177734",
+                    "end_top": "568.00469970703",
+                    "end_left": "540.85186767578",
+                    "text": [
+                        {
+                            "text": "एसडब्ल्यूपी",
+                            "font_size": "9",
+                            "colorCode": "#992e56",
+                            "fontWeight": "italic underline superscript bold italic",
+                            "transOrg": "SWP ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "568.12170410156",
+                    "left": "422.56011962891",
+                    "end_top": "578.8046875",
+                    "end_left": "517.66345214844",
+                    "text": [
+                        {
+                            "text": "यह उसे प्रदान करेगा",
+                            "font_size": "9",
+                            "colorCode": "#373334",
+                            "fontWeight": "italic underline superscript bold italic",
+                            "transOrg": "it would provide her with ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "568.12170410156",
+                    "left": "517.63250732422",
+                    "end_top": "578.8046875",
+                    "end_left": "575.56134033203",
+                    "text": [
+                        {
+                            "text": "निष्क्रिय आय",
+                            "font_size": "9",
+                            "colorCode": "#992e56",
+                            "fontWeight": "italic underline superscript bold italic",
+                            "transOrg": "passive income ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "578.92175292969",
+                    "left": "422.55990600586",
+                    "end_top": "589.60473632812",
+                    "end_left": "580.57855224609",
+                    "text": [
+                        {
+                            "text": "जबकि अभी भी उसे उपलब्ध धन के साथ छोड़ दिया गया है।",
+                            "font_size": "9",
+                            "colorCode": "#373334",
+                            "fontWeight": "italic underline superscript bold italic",
+                            "transOrg": "while still leaving her with available funds.",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "568.16589355469",
+                    "left": "393.29769897461",
+                    "end_top": "579.53143310547",
+                    "end_left": "415.75439453125",
+                    "text": [
+                        {
+                            "text": "एसडब्ल्यूपी",
+                            "font_size": "10.166000366211",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "SWP",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "610.02618408203",
+                    "left": "364.49938964844",
+                    "end_top": "618.84216308594",
+                    "end_left": "366.04339599609",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "610.02618408203",
+                    "left": "399.91400146484",
+                    "end_top": "618.84216308594",
+                    "end_left": "463.84127807617",
+                    "text": [
+                        {
+                            "text": "तब से वापसी",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "Withdrawal since  ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "609.88220214844",
+                    "left": "513.85650634766",
+                    "end_top": "618.826171875",
+                    "end_left": "557.16864013672",
+                    "text": [
+                        {
+                            "text": "01/04/2013",
+                            "font_size": "8",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "01/04/2013",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "624.42559814453",
+                    "left": "364.49932861328",
+                    "end_top": "633.24157714844",
+                    "end_left": "366.04333496094",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "624.42559814453",
+                    "left": "402.40191650391",
+                    "end_top": "633.24157714844",
+                    "end_left": "461.35345458984",
+                    "text": [
+                        {
+                            "text": "मासिक भुगतान",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "Monthly Payout  ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "624.28161621094",
+                    "left": "523.01275634766",
+                    "end_top": "633.2255859375",
+                    "end_left": "548.01281738281",
+                    "text": [
+                        {
+                            "text": "30,000",
+                            "font_size": "8",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "30,000",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "638.82501220703",
+                    "left": "364.49963378906",
+                    "end_top": "647.64099121094",
+                    "end_left": "503.36254882812",
+                    "text": [
+                        {
+                            "text": "निकासी की शुरुआत में बाजार मूल्य",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " Market value at the start of withdrawal  ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "638.68103027344",
+                    "left": "517.47265625",
+                    "end_top": "647.625",
+                    "end_left": "553.552734375",
+                    "text": [
+                        {
+                            "text": "68,87,718",
+                            "font_size": "8",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "68,87,718",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "653.22473144531",
+                    "left": "364.49926757812",
+                    "end_top": "662.04071044922",
+                    "end_left": "366.04327392578",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "653.22473144531",
+                    "left": "400.7297668457",
+                    "end_top": "662.04071044922",
+                    "end_left": "461.4811706543",
+                    "text": [
+                        {
+                            "text": "एसडब्ल्यूपी अवधि (वर्ष)",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "SWP period (Yrs) ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "653.08074951172",
+                    "left": "530.87255859375",
+                    "end_top": "662.02471923828",
+                    "end_left": "540.15258789062",
+                    "text": [
+                        {
+                            "text": "10",
+                            "font_size": "8",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "10",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "667.62445068359",
+                    "left": "364.49926757812",
+                    "end_top": "676.4404296875",
+                    "end_left": "366.04327392578",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "667.62445068359",
+                    "left": "387.9899597168",
+                    "end_top": "676.4404296875",
+                    "end_left": "474.22085571289",
+                    "text": [
+                        {
+                            "text": "निकाला गया कुल पैसा",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "Total Money Withdrawn ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "667.48046875",
+                    "left": "517.47198486328",
+                    "end_top": "676.42443847656",
+                    "end_left": "553.55206298828",
+                    "text": [
+                        {
+                            "text": "36,00,000",
+                            "font_size": "8",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "36,00,000",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "682.02410888672",
+                    "left": "364.49859619141",
+                    "end_top": "690.84008789062",
+                    "end_left": "366.04260253906",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "682.02410888672",
+                    "left": "378.83309936523",
+                    "end_top": "690.84008789062",
+                    "end_left": "481.83245849609",
+                    "text": [
+                        {
+                            "text": "10 वर्षों के बाद शेष राशि",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "Balance corpus after 10 years",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "691.62359619141",
+                    "left": "364.49829101562",
+                    "end_top": "700.43957519531",
+                    "end_left": "366.04229736328",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "691.62359619141",
+                    "left": "398.58889770508",
+                    "end_top": "700.43957519531",
+                    "end_left": "463.62042236328",
+                    "text": [
+                        {
+                            "text": "मासिक भुगतान का",
+                            "font_size": "8",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline",
+                            "transOrg": "of monthly payout ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "685.87982177734",
+                    "left": "514.25152587891",
+                    "end_top": "694.82379150391",
+                    "end_left": "556.77160644531",
+                    "text": [
+                        {
+                            "text": "1,44,03,464",
+                            "font_size": "8",
+                            "colorCode": "#992e56",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "1,44,03,464",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "578.49383544922",
+                    "left": "274.32443237305",
+                    "end_top": "589.84918212891",
+                    "end_left": "278.92016601562",
+                    "text": [
+                        {
+                            "text": "आर",
+                            "font_size": "10.000401496887",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "r",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "578.44519042969",
+                    "left": "278.54638671875",
+                    "end_top": "589.70373535156",
+                    "end_left": "283.95581054688",
+                    "text": [
+                        {
+                            "text": "ए",
+                            "font_size": "10.000154495239",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "a",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "578.44537353516",
+                    "left": "283.84265136719",
+                    "end_top": "589.87365722656",
+                    "end_left": "290.03677368164",
+                    "text": [
+                        {
+                            "text": "एन",
+                            "font_size": "10.000401496887",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "n",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "578.69677734375",
+                    "left": "289.46823120117",
+                    "end_top": "590.17645263672",
+                    "end_left": "294.67526245117",
+                    "text": [
+                        {
+                            "text": "एस",
+                            "font_size": "9.9999217987061",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "s",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "578.65673828125",
+                    "left": "268.25378417969",
+                    "end_top": "590.24517822266",
+                    "end_left": "274.88674926758",
+                    "text": [
+                        {
+                            "text": "टी",
+                            "font_size": "9.9999217987061",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": " t",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "579.03540039062",
+                    "left": "293.77197265625",
+                    "end_top": "590.52581787109",
+                    "end_left": "298.45373535156",
+                    "text": [
+                        {
+                            "text": "एफ",
+                            "font_size": "9.9999799728394",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "f",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "579.40551757812",
+                    "left": "297.20666503906",
+                    "end_top": "591.21331787109",
+                    "end_left": "304.03970336914",
+                    "text": [
+                        {
+                            "text": "यह है",
+                            "font_size": "9.9995698928833",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "e",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "579.13110351562",
+                    "left": "263.62265014648",
+                    "end_top": "590.71319580078",
+                    "end_left": "269.15951538086",
+                    "text": [
+                        {
+                            "text": "एस",
+                            "font_size": "9.9999799728394",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "s",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "580.18255615234",
+                    "left": "302.44543457031",
+                    "end_top": "591.89093017578",
+                    "end_left": "308.35559082031",
+                    "text": [
+                        {
+                            "text": "आर",
+                            "font_size": "10.000127792358",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "r",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "579.64611816406",
+                    "left": "257.70635986328",
+                    "end_top": "591.50054931641",
+                    "end_left": "264.87619018555",
+                    "text": [
+                        {
+                            "text": "में",
+                            "font_size": "9.9995698928833",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "u",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "580.92504882812",
+                    "left": "306.41589355469",
+                    "end_top": "592.69537353516",
+                    "end_left": "312.64892578125",
+                    "text": [
+                        {
+                            "text": "आर",
+                            "font_size": "10.000004768372",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "r",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "580.52954101562",
+                    "left": "251.58447265625",
+                    "end_top": "592.6123046875",
+                    "end_left": "259.35610961914",
+                    "text": [
+                        {
+                            "text": "पी",
+                            "font_size": "10.000004768372",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "p",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "581.80877685547",
+                    "left": "310.36145019531",
+                    "end_top": "593.91955566406",
+                    "end_left": "318.14117431641",
+                    "text": [
+                        {
+                            "text": "यह है",
+                            "font_size": "9.9995784759521",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "e",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "581.71282958984",
+                    "left": "247.31513977051",
+                    "end_top": "593.53356933594",
+                    "end_left": "253.86874389648",
+                    "text": [
+                        {
+                            "text": "आर",
+                            "font_size": "9.9995784759521",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "r",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "583.18310546875",
+                    "left": "315.45474243164",
+                    "end_top": "595.54473876953",
+                    "end_left": "324.18804931641",
+                    "text": [
+                        {
+                            "text": "डी",
+                            "font_size": "10.000316619873",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "d",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "582.72698974609",
+                    "left": "241.53099060059",
+                    "end_top": "595.00701904297",
+                    "end_left": "249.9504699707",
+                    "text": [
+                        {
+                            "text": "हे",
+                            "font_size": "10.000047683716",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "o",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "584.94952392578",
+                    "left": "320.84677124023",
+                    "end_top": "596.14758300781",
+                    "end_left": "326.31811523438",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "9.9999923706055",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "584.39685058594",
+                    "left": "234.5869140625",
+                    "end_top": "597.15411376953",
+                    "end_left": "244.57678222656",
+                    "text": [
+                        {
+                            "text": "सी",
+                            "font_size": "9.9999923706055",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "C",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "589.85833740234",
+                    "left": "271.92251586914",
+                    "end_top": "601.29028320312",
+                    "end_left": "277.81176757812",
+                    "text": [
+                        {
+                            "text": "और",
+                            "font_size": "10.000357627869",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "y",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "589.80529785156",
+                    "left": "277.66653442383",
+                    "end_top": "601.01550292969",
+                    "end_left": "283.42578125",
+                    "text": [
+                        {
+                            "text": "बी",
+                            "font_size": "10.000140190125",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "b",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "589.83929443359",
+                    "left": "283.38604736328",
+                    "end_top": "601.08605957031",
+                    "end_left": "287.66125488281",
+                    "text": [
+                        {
+                            "text": "आर",
+                            "font_size": "10.000377655029",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "r",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "589.94757080078",
+                    "left": "287.43078613281",
+                    "end_top": "601.22247314453",
+                    "end_left": "290.56262207031",
+                    "text": [
+                        {
+                            "text": "मैं",
+                            "font_size": "10.000184059143",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "i",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "590.09527587891",
+                    "left": "290.05627441406",
+                    "end_top": "601.71032714844",
+                    "end_left": "296.66485595703",
+                    "text": [
+                        {
+                            "text": "डी",
+                            "font_size": "10.000502586365",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "d",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "590.64318847656",
+                    "left": "295.6891784668",
+                    "end_top": "601.96441650391",
+                    "end_left": "298.79550170898",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "9.9995546340942",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "590.880859375",
+                    "left": "297.57006835938",
+                    "end_top": "602.76220703125",
+                    "end_left": "305.18594360352",
+                    "text": [
+                        {
+                            "text": "पी",
+                            "font_size": "9.9995927810669",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "P",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "590.11267089844",
+                    "left": "263.78079223633",
+                    "end_top": "602.09735107422",
+                    "end_left": "272.59188842773",
+                    "text": [
+                        {
+                            "text": "एच",
+                            "font_size": "10.000092506409",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "H",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "591.05505371094",
+                    "left": "261.66870117188",
+                    "end_top": "602.39477539062",
+                    "end_left": "265.12750244141",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "10.000233650208",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "591.90063476562",
+                    "left": "303.62866210938",
+                    "end_top": "603.39447021484",
+                    "end_left": "308.46252441406",
+                    "text": [
+                        {
+                            "text": "एल",
+                            "font_size": "10.000169754028",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "l",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "591.34973144531",
+                    "left": "256.29473876953",
+                    "end_top": "603.22491455078",
+                    "end_left": "263.25988769531",
+                    "text": [
+                        {
+                            "text": "ए",
+                            "font_size": "9.9994859695435",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "a",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "592.45294189453",
+                    "left": "306.22280883789",
+                    "end_top": "604.55865478516",
+                    "end_left": "313.97213745117",
+                    "text": [
+                        {
+                            "text": "ए",
+                            "font_size": "10.000101089478",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "a",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "592.34399414062",
+                    "left": "253.96569824219",
+                    "end_top": "603.68011474609",
+                    "end_left": "258.18856811523",
+                    "text": [
+                        {
+                            "text": "",
+                            "font_size": "9.9996385574341",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": " ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "593.76550292969",
+                    "left": "311.25912475586",
+                    "end_top": "606.05133056641",
+                    "end_left": "319.69812011719",
+                    "text": [
+                        {
+                            "text": "एन",
+                            "font_size": "10.00048160553",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "n",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "592.78393554688",
+                    "left": "248.24215698242",
+                    "end_top": "604.96960449219",
+                    "end_left": "256.34103393555",
+                    "text": [
+                        {
+                            "text": "हे",
+                            "font_size": "9.9997434616089",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "o",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "594.24035644531",
+                    "left": "243.8824005127",
+                    "end_top": "606.06622314453",
+                    "end_left": "250.9201965332",
+                    "text": [
+                        {
+                            "text": "टी",
+                            "font_size": "10.000091552734",
+                            "colorCode": "#373334",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "t",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "485.84100341797",
+                    "left": "245.06019592285",
+                    "end_top": "498.13900756836",
+                    "end_left": "352.21157836914",
+                    "text": [
+                        {
+                            "text": "समझाने के लिए चित्रण",
+                            "font_size": "11",
+                            "colorCode": "#fefefe",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "Illustration to explain ",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                },
+                {
+                    "top": "497.72131347656",
+                    "left": "226.85748291016",
+                    "end_top": "510.01931762695",
+                    "end_left": "368.35040283203",
+                    "text": [
+                        {
+                            "text": "आत्मनिर्भर एसआईपी की अवधारणा",
+                            "font_size": "11",
+                            "colorCode": "#fefefe",
+                            "fontWeight": "underline superscript bold",
+                            "transOrg": "concept of Aatmanirbhar SIP",
+                            "font-family": "Noto Sans"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]
