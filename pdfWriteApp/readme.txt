@@ -13,12 +13,12 @@ Also Other PDFs can also be tested and it should work fine with the same code.
 
 If any issues, please message me on Whatsapp, as I am available only on Tuesday.
 
-5) The syntax now for the input testing is :
+5) The syntax now for the input testing from POSTMAN is :
 
 {
-  "blank_pdf": "https://effybiz-devops.s3.ap-south-1.amazonaws.com/Aatmanirbhar.pdf",
-  "json_link": "https://effybiz-devops.s3.ap-south-1.amazonaws.com/Aatmanirbhar_hi.json",
-  "language":"Hindi"
+  "blank_pdf": "https://test-devops.s3.ap-south-1.amazonaws.com/example.pdf",
+  "json_link": "https://test-devops.s3.ap-south-1.amazonaws.com/example_en.json",
+  "language":"English"
 }
 
 6) Here I am just reading the language, but not using it anywhere in the code. Based on the language of the json file, the code automatically writes that language to the blank pdf, the requirement of adding a language is not used anywhere in the code.
