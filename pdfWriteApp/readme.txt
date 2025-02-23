@@ -11,7 +11,6 @@ Tested locally, it's working fine. Tested it only with the links of pdf. The oth
 
 Also Other PDFs can also be tested and it should work fine with the same code.
 
-If any issues, please message me on Whatsapp, as I am available only on Tuesday.
 
 5) The syntax now for the input testing from POSTMAN is :
 
@@ -25,5 +24,5 @@ If any issues, please message me on Whatsapp, as I am available only on Tuesday.
 
 Pending items:
 1) Optimization of the code to return the pdf faster.
-2)  If there are any additional changes to the requirements then we can discuss it on Tuesday.
+2)  If there are any additional changes to the requirements then we can discuss it.
 3) Further testing of the code is required to find any additional issues.
