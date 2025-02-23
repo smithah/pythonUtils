@@ -124,7 +124,7 @@ def itrdic(dicti,doc,WIDTH,HEIGHT):
                                           
                                             page.insert_htmlbox(  # page is a PDF Page object
                                                 rect,         # rectangle inside the page
-                                                bidi_text,         # text string or a Story object
+                                                "<div style=font-size:"+str(font_size)+"pt;>"+bidi_text+"</div>",         # text string or a Story object
                                                 css=cssStr,                                               
                                                 scale_low=0,  # limit scaling down when fitting content
                                                 archive=None, # points to locations of fonts and images
