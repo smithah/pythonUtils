@@ -1,0 +1,10 @@
+pillow
+fastapi
+uvicorn
+pyMUpdf
+pymupdf_fonts
+python-bidi
+arabic-reshaper
+configparser
+urllib3
+pydantic
